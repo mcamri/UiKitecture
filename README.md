@@ -7,3 +7,7 @@
 - Use AppModules for long life modules
 - Use AppCoordinator to control the navigation flow
 - Router job is done by module
+
+TODO:
+- Add Unit Test
+- Add UI Test
